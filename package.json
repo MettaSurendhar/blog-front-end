@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MettaSurendhar.github.io/blog-front-end/",
+  "homepage": "https://mettasurendhar.github.io/blog-front-end/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
